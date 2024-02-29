@@ -1,3 +1,3 @@
-# MegaPIZDA
+# MegaProject
 
 Developed with Unreal Engine 5
