@@ -13,7 +13,15 @@
 
 
 Интерфейс.
-![image](https://github.com/shiroxxsora/MegaProject/assets/148600353/31e4790b-60f5-46e6-ad4e-1136e0bddc8e)
+
+
+
+
+
+**Игровой процесс**
+![image](https://github.com/shiroxxsora/MegaProject/assets/148600353/6e74f930-ae00-4e86-9084-687756c4cc85)
+
+
 
   
 ## Описание игровых механик и управления
